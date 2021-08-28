@@ -22,7 +22,7 @@
   <img align="center" alt="Theago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Theago-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Theago-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-  <img align="right" alt="Rafa-yoda" height="100" width="170" src="https://thumbs.gfycat.com/RedLegitimateHellbender-size_restricted.gif">
+  <img align="right" alt="Rafa-yoda" height="100" width="120" src="https://c.tenor.com/_b9EDbGso5IAAAAM/anime-wind.gif">
 </div>
   
   ##
