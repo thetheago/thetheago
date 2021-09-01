@@ -23,7 +23,7 @@
   <img align="center" alt="Theago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Theago-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Theago-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-  <img align="right" alt="Theago-gif" height="120" width="150" src="https://im2.ezgif.com/tmp/ezgif-2-aaa1d87b677b.gif">
+  <img align="right" alt="Theago-gif" height="120" width="150" src="https://media.discordapp.net/attachments/751300018505252935/882629315827744828/eugif.gif?width=523&height=476">
 </div>
   
   ##
