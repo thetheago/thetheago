@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: theagohen001@gmail.com
 - 😄 Pronouns: ele/dele
 - 🥰 Também trabalho com edição de vídeo, tanto profissional quanto para diversão.
-- 🌱 Fun fact: Aprendi a tocar violão por que meu tio disse que eu não conseguiria, e hoje toco muito bem! 😂
+- 🌱 Fun fact: Sei tocar muito bem violão e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thetheago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
