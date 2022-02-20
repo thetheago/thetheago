@@ -1,11 +1,10 @@
 ### Olá, sou Thiago 👋
 
 - 📚 Estou atualmente estudando Ciência da Programação na Universidade FUMEC.
-- 🤔 Estagiando em PHP/MySQL
+- 🤔 Trabalhando Web Developer PHP
 - 💬 Sou muito focado e gosto de aprender coisas novas, meu hobby/trabalho/freelance é editar vídeos e eu acho MUITO satisfatório ver um trabalho em que você se dedicou bastante finalizado. Entendo razoavelmente bem inglês pois ouço bastante música, leio livros e vejo séries em inglês.
 - 📫 Contate-me no email: theagohen001@gmail.com
 - 😄 Pronouns: ele/dele
-- 🥰 Também trabalho com edição de vídeo, tanto profissional quanto para diversão.
 - 🌱 Fun fact: Sei tocar muito bem violão e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
