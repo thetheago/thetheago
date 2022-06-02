@@ -1,7 +1,7 @@
 ### Olá, sou Thiago 👋
 
 - 📚 Estou atualmente estudando Ciência da Programação na Universidade FUMEC.
-- 🤔 Estou atualmente trabalhando de programador júnior PHP na empresa AIX Sistemas.
+- 🤔 Estou atualmente trabalhando de programador júnior PHP / React / Python na empresa AIX Sistemas.
 - 💬 Sou muito focado e gosto de aprender coisas novas, meu hobby/trabalho era editar vídeos e eu acho MUITO satisfatório ver um trabalho em que você se dedicou bastante finalizado. Entendo razoavelmente bem inglês pois ouço bastante música, leio livros e vejo séries em inglês.
 - 📫 Contate-me no email: theagohen001@gmail.com
 - 😄 Pronouns: ele/dele
