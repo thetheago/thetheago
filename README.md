@@ -8,7 +8,7 @@
 - 🌱 Fun fact: Sei tocar muito bem violão e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Portifolio&theme=radical"/>
+  <img height="149px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Portifolio&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Laravel-Ofertas-API&theme=radical"/>
 </div>
   
