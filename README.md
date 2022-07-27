@@ -5,7 +5,7 @@
 - 💬 Sou muito focado e gosto de aprender coisas novas, meu hobby/trabalho era editar vídeos e eu acho MUITO satisfatório ver um trabalho em que você se dedicou bastante finalizado. Entendo razoavelmente bem inglês pois ouço bastante música, leio livros e vejo séries em inglês.
 - 📫 Contate-me no email: theagohen001@gmail.com
 - 😄 Pronouns: ele/dele
-- 🌱 Fun fact: Sei tocar muito bem violão e tudo que aprendi foi pesquisando.
+- 🌱 Fun fact: Sou um excelente editor de vídeo e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Portifolio&theme=radical"/>
