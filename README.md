@@ -8,8 +8,8 @@
 - 🌱 Fun fact: Sou um excelente editor de vídeo e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
-  <a href="https://github.com/thetheago/Portifolio">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Portifolio&theme=radical" />
+  <a href="[https://github.com/thetheago/Portifolio](https://github.com/thetheago/Rocket-Flix)">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Rocket-Flix&theme=radical" />
   </a>
   <a href="https://github.com/thetheago/Laravel-Ofertas-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Laravel-Ofertas-API&theme=radical"/>
