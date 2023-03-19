@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/thetheago">
   <a href="[https://github.com/thetheago/Portifolio](https://github.com/thetheago/Rocket-Flix)">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Rocket-Flix&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Rocket-Flix&theme=radical" />
   </a>
   <a href="https://github.com/thetheago/Laravel-Ofertas-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Laravel-Ofertas-API&theme=radical"/>
