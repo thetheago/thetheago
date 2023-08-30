@@ -3,7 +3,7 @@
 - 📚 Estou atualmente estudando Ciência da Programação na Universidade FUMEC.
 - 🤔 Estou atualmente trabalhando de com programação web React / PHP na empresa ForPeople.
 - 💬 Sou muito focado e gosto de aprender coisas novas, meu hobby/trabalho era editar vídeos e eu acho MUITO satisfatório ver um trabalho em que você se dedicou bastante finalizado. Entendo razoavelmente bem inglês pois ouço bastante música, leio livros e vejo séries em inglês.
-- 📫 Contate-me no email: theagohen001@gmail.com
+- 📫 Contate-me no email: thiago56011@gmail.com
 - 😄 Pronouns: ele/dele
 - 🌱 Fun fact: Sou um excelente editor de vídeo e tudo que aprendi foi pesquisando.
 <div>
