@@ -1,7 +1,7 @@
 ### Olá, sou Thiago 👋
 
 - 📚 Estou atualmente estudando Ciência da Programação na Universidade FUMEC.
-- 🤔 Estou atualmente trabalhando de com programação web React / PHP na empresa ForPeople.
+- 🤔 Gosto bastante do front-end mas tenho um brilho no olho quando se trata de saber como as peças no back-end se encaixam.
 - 💬 Sou muito focado e gosto de aprender coisas novas, meu hobby/trabalho era editar vídeos e eu acho MUITO satisfatório ver um trabalho em que você se dedicou bastante finalizado. Entendo razoavelmente bem inglês pois ouço bastante música, leio livros e vejo séries em inglês.
 - 📫 Contate-me no email: thiago56011@gmail.com
 - 😄 Pronouns: ele/dele
