@@ -11,8 +11,8 @@
   <a href="[https://github.com/thetheago/Portifolio](https://github.com/thetheago/CellphonePlans)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=CellphonePlans&theme=radical" />
   </a>
-  <a href="https://github.com/thetheago/JavaCertificationsManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=JavaCertificationsManager&theme=radical"/>
+  <a href="https://github.com/thetheago/Finnance-backend-challange">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Finnance-backend-challange&theme=radical"/>
   </a>
 </div>
   
