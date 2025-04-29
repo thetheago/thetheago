@@ -8,8 +8,8 @@
 - 🌱 Fun fact: Sou um excelente editor de vídeo e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
-  <a href="[https://github.com/thetheago/Portifolio](https://github.com/thetheago/CellphonePlans)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=CellphonePlans&theme=radical" />
+  <a href="[https://github.com/thetheago/CoinPilot](https://github.com/thetheago/CoinPilot)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=CoinPilot&theme=radical" />
   </a>
   <a href="https://github.com/thetheago/Finnance-backend-challange">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=Finnance-backend-challange&theme=radical"/>
