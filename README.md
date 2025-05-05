@@ -10,6 +10,7 @@
 - 🌱 Fun fact: Everything I know about video editing and development, I learned through curiosity and self-driven research.
 
 <div>
+  <img src="https://timelinecovers.pro/facebook-cover/download/steven-universe-ending-background-facebook-cover.jpg" />
   <a href="https://github.com/thetheago">
   <a href="[https://github.com/thetheago/CoinPilot](https://github.com/thetheago/CoinPilot)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetheago&repo=CoinPilot&theme=radical" />
