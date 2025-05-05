@@ -1,11 +1,14 @@
-### Olá, sou Thiago 👋
+### Hello, I'm Thiago 👋
+💻 I'm a Full Stack Developer with a strong focus on Back-End architecture and performance.
+🔧 My main programming languages are PHP, Java, and Golang, and I love building scalable and efficient systems.
+🚀 I thrive on solving complex problems and understanding how the different layers of a system work together seamlessly.
+🎯 I'm a fast learner, highly focused, and passionate about technology — from code to deployment.
+🎬 I come from a background in video editing, where I developed an eye for detail and a deep appreciation for delivering polished results.
+🌍 I have a solid grasp of English thanks to years of immersion in music, books, and series.
+📫 Get in touch: theago.dev@gmail.com
+😄 Pronouns: he/him
+🌱 Fun fact: Everything I know about video editing and development, I learned through curiosity and self-driven research.
 
-- 📚 Estou atualmente estudando Ciência da Programação na Universidade FUMEC.
-- 🤔 Gosto bastante do front-end mas tenho um brilho no olho quando se trata de saber como as peças no back-end se encaixam.
-- 💬 Sou muito focado e gosto de aprender coisas novas, meu hobby/trabalho era editar vídeos e eu acho MUITO satisfatório ver um trabalho em que você se dedicou bastante finalizado. Entendo razoavelmente bem inglês pois ouço bastante música, leio livros e vejo séries em inglês.
-- 📫 Contate-me no email: theago.dev@gmail.com
-- 😄 Pronouns: ele/dele
-- 🌱 Fun fact: Sou um excelente editor de vídeo e tudo que aprendi foi pesquisando.
 <div>
   <a href="https://github.com/thetheago">
   <a href="[https://github.com/thetheago/CoinPilot](https://github.com/thetheago/CoinPilot)">
