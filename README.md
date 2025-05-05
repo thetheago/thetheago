@@ -10,7 +10,7 @@
 - 🌱 Fun fact: Everything I know about video editing and development, I learned through curiosity and self-driven research.
 
 <div>
-  <img src="[https://timelinecovers.pro/facebook-cover/download/steven-universe-ending-background-facebook-cover.jpg](https://chromosphere-la.com/wp-content/uploads/2020/07/album_vol2banner-1920x480.jpg)" />
+  <img src="https://timelinecovers.pro/facebook-cover/download/steven-universe-ending-background-facebook-cover.jpg" />
 </div>
   
   ##
