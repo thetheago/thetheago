@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago 👋
 - 💻 I'm a Full Stack Developer with a strong focus on Back-End architecture and performance.
-- 🔧 My main programming languages are PHP, Java, and Golang, and I love building scalable and efficient systems.
+- 🔧 My main programming languages are PHP, Node, and React, and I love building scalable and efficient systems.
 - 🚀 I thrive on solving complex problems and understanding how the different layers of a system work together seamlessly.
 - 🎯 I'm a fast learner, highly focused, and passionate about technology — from code to deployment.
 - 🎬 I come from a background in video editing, where I developed an eye for detail and a deep appreciation for delivering polished results.
